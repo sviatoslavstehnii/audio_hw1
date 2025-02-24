@@ -15,7 +15,7 @@ This lab implements and evaluates Voice Activity Detection (VAD) using two diffe
 | Approach                 | Detection Error Rate (DER) |
 |--------------------------|---------------------------|
 | Energy-Based Approach   | 12.6%                     |
-| K-Means Approach       | 33.4%                     |
+| K-Means Approach       | 30.1%                     |
 
 ## Usage
 To run the notebook:
